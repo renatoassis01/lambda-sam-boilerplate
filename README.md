@@ -6,3 +6,5 @@ boilerplate lambda with aws sam
 - aws-sdk-client-mock
 - sinon
 - jest
+- aws-lambda-powertools
+- middy
